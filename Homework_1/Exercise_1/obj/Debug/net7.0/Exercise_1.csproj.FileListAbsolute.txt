@@ -1,0 +1,15 @@
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\Exercise_1.csproj.AssemblyReference.cache
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\Exercise_1.AssemblyInfoInputs.cache
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\Exercise_1.AssemblyInfo.cs
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\Exercise_1.csproj.CoreCompileInputs.cache
+D:\Homework\Homework_1\Exercise_1\bin\Debug\net7.0\Exercise_1.exe
+D:\Homework\Homework_1\Exercise_1\bin\Debug\net7.0\Exercise_1.deps.json
+D:\Homework\Homework_1\Exercise_1\bin\Debug\net7.0\Exercise_1.runtimeconfig.json
+D:\Homework\Homework_1\Exercise_1\bin\Debug\net7.0\Exercise_1.dll
+D:\Homework\Homework_1\Exercise_1\bin\Debug\net7.0\Exercise_1.pdb
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\Exercise_1.dll
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\refint\Exercise_1.dll
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\Exercise_1.pdb
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\Exercise_1.genruntimeconfig.cache
+D:\Homework\Homework_1\Exercise_1\obj\Debug\net7.0\ref\Exercise_1.dll
